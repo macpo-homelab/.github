@@ -10,7 +10,7 @@
 
 ---
 
-## Worum geht es?
+## Worum geht es2?
 
 Hier veröffentliche ich Bausteine aus meinem Smart Home, die auch für andere nützlich sein können:
 
